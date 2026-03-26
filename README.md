@@ -9,15 +9,15 @@
 
 
 <h4 align="center" style="line-height:1.4; margin-top:0.6rem">
-  <a href="https://github.com/xishuxishu/Know3D">Wenyue Chen</a><sup>1*</sup>,
-  <a href="https://github.com/xishuxishu/Know3D">Wenjue Chen</a><sup>2*</sup>,
-  <a href="https://penghtyx.github.io/yuki-lipeng/">Peng Li</a><sup>1*</sup>,
-  <a href="https://qinghew.github.io">Qinghe Wang</a><sup>3</sup>,
+  <a href="https://github.com/xishuxishu/Know3D">Wenyue Chen</a><sup>1,2*</sup>,
+  <a href="https://github.com/xishuxishu/Know3D">Wenjue Chen</a><sup>1*</sup>,
+  <a href="https://penghtyx.github.io/yuki-lipeng/">Peng Li</a><sup>3</sup>,
+  <a href="https://qinghew.github.io">Qinghe Wang</a><sup>4</sup>,
   <a href="https://stephenjia.github.io">Xu Jia</a><sup>4</sup>,
-  <a href="https://scholar.google.com/citations?user=VRgciTQAAAAJ&hl=en">Heliang Zheng</a><sup>4</sup>,
+  <a href="https://scholar.google.com/citations?user=VRgciTQAAAAJ&hl=en">Heliang Zheng</a><sup>2</sup>,
   <a href="https://github.com/xishuxishu/Know3D">Rongfei Jia</a><sup>2</sup>,
-  <a href="https://liuyuan-pal.github.io/">Yuan Liu</a><sup>5</sup>,
-  <a href="https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl">Ronggang Wang</a><sup>6†</sup>
+  <a href="https://liuyuan-pal.github.io/">Yuan Liu</a><sup>3†</sup>,
+  <a href="https://scholar.google.com/citations?user=CEEvb64AAAAJ&hl">Ronggang Wang</a><sup>1†</sup>
 </h4>
 
 <p align="center" style="margin:0.2rem 0 0.6rem 0;">
