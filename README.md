@@ -1,11 +1,6 @@
 <h1 align="center" style="line-height:1.3; margin-bottom:0.6rem;">
-  <img src="./assets/teaser.png"
-       alt="Know3D"
-       style="display:block; margin:0 auto 0.4rem auto; max-width:100%;">
-
-
   <span style="font-size:1.8rem; font-weight:600;">
-    Prompting 3D Generation with Knowledge from Vision-Language Models
+    Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models
   </span>
 </h1>
 
