@@ -59,10 +59,10 @@ Recent advances in 3D generation have improved the fidelity and geometric detail
 ## Citation
 If you find our work helpful, please consider citing:
 ```bibtex
-@article{chen2025know3d,
+@article{chen2026know3d,
   title={Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models},
-  author={Wenyue Chen and Wenjue Chen and Peng Li and Qinghe Wang and Xu Jia and Heliang Zheng and Rongfei Jia and Yuan Liu and Ronggang Wang},
-  year={2026},
-  journal={arXiv preprint arXiv:2603.22782}
+  author={Chen, Wenyue and Chen, Wenjue and Li, Peng and Wang, Qinghe and Jia, Xu and Zheng, Heliang and Jia, Rongfei and Liu, Yuan and Wang, Ronggang},
+  journal={arXiv preprint arXiv:2603.22782},
+  year={2026}
 }
 ```
